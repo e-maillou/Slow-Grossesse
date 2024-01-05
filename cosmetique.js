@@ -426,8 +426,8 @@ myDate.setDate((myDate.getDate()+ joursEnPlus));
       { date: 37, reading: 2900, dessin: "https://st4.depositphotos.com/11985054/19752/v/450/depositphotos_197528962-stock-illustration-swiss-chard-greens-drawn-line.jpg", nom:"une blette"},
       { date: 38, reading: 2750, dessin: "https://thumbs.dreamstime.com/b/rhubarb-vector-illustration-hand-drawn-vegetable-cartoon-art-rhubarb-vector-illustration-hand-drawn-vegetable-cartoon-art-pencil-174921712.jpg", nom:"une rhubarbe"},
       { date: 39, reading: 3000, dessin: "https://static.vecteezy.com/system/resources/previews/013/753/539/non_2x/watermelon-drawing-illustration-on-white-background-free-vector.jpg", nom: "une pastèque"},
-      { date: 40, reading: 3250, dessin: "https://media.istockphoto.com/id/1314610857/vector/fresh-juicy-slises-parts-of-watermelon-fruit-in-doodle-hand-drawn-style-set-of-vector.jpg?s=612x612&w=0&k=20&c=95sOXQ-QV4K6oUxmTMPHF8JYrftVFP69aeMrfAR3ML8=", nom: "pastèque"},
-      { date: 41, reading: 3500, dessin: "https://media.istockphoto.com/id/1314610857/vector/fresh-juicy-slises-parts-of-watermelon-fruit-in-doodle-hand-drawn-style-set-of-vector.jpg?s=612x612&w=0&k=20&c=95sOXQ-QV4K6oUxmTMPHF8JYrftVFP69aeMrfAR3ML8=", nom: "pastèque"},
+      { date: 40, reading: 3250, dessin: "https://media.istockphoto.com/id/1314610857/vector/fresh-juicy-slises-parts-of-watermelon-fruit-in-doodle-hand-drawn-style-set-of-vector.jpg?s=612x612&w=0&k=20&c=95sOXQ-QV4K6oUxmTMPHF8JYrftVFP69aeMrfAR3ML8=", nom: "une pastèque"},
+      { date: 41, reading: 3500, dessin: "https://media.istockphoto.com/id/1314610857/vector/fresh-juicy-slises-parts-of-watermelon-fruit-in-doodle-hand-drawn-style-set-of-vector.jpg?s=612x612&w=0&k=20&c=95sOXQ-QV4K6oUxmTMPHF8JYrftVFP69aeMrfAR3ML8=", nom: "une pastèque"},
     ];
 var inputt = document.getElementById("saa")
 var inputttt = document.getElementById('dateInput2')
