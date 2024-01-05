@@ -1,0 +1,188 @@
+body {
+  margin: 0%;
+  font-family:'PT Sans', sans-serif;
+  }
+
+  article {
+    margin: 15%;
+    }
+
+   
+
+.image {
+  text-align: center;
+  }
+
+p {
+  font-family: 'PT Sans', sans-serif;
+  color: #45484C;
+}
+
+a {
+ 
+ 
+  text-decoration: none;
+   
+  
+}
+
+h1 {
+    font-family: 'PT Sans', sans-serif;
+    color:rgba(118, 73, 114, 0.866);
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .vrailogo {
+      height: 45px;
+      width: 30px;
+      background-color: rgba(212, 123, 204, 0.485);
+      border-radius: 5%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      margin: 0%;
+      border-radius: 20px 100px / 100px 20px;
+     }
+
+     .logoprin {
+      margin: 0%;
+      padding: 0%;
+      width: 100%;
+      height: 80px;;
+      background-color: rgba(253, 254, 248, 0.899);
+      margin-top: 0%;
+      top: 0%;
+      gap: 0%;
+      padding: 0%;
+      position: fixed;
+      z-index: 7;
+      box-shadow: 5px 2px 2px rgba(151, 113, 191, 0.11);
+      display: flex;
+      
+      justify-content: center;
+      align-items: center;
+    
+      
+     }
+
+
+
+     .rose {
+      background-color: rgba(212, 123, 204, 0.485);
+       width: 100%;
+       height: 2rem;
+       display: flex;
+       flex-direction: row;
+       align-items: center;
+      justify-content: space-evenly;
+      border-radius: 20px 100px / 100px 20px;
+   }
+  
+   .flex-box1 {
+     background-color: rgba(191, 148, 233, 0.648);
+     width: 5rem;
+       height: 5rem;
+       border-radius: 5%; 
+      font-size: medium;
+     
+        color :rgb(255, 255, 255);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        font-weight: bold;
+        font-family: 'PT Sans', sans-serif;
+        transition: all 2s; 
+        border-radius: 20px 100px / 100px 20px; 
+        
+  }
+
+  .flex-box1:hover {
+    width: 9rem;
+    height: 6rem;
+    font-size: larger;
+  }
+  
+  .flex-box2 {
+      background-color: #ffb89ac2;
+      font-size: medium;
+      width: 5rem;
+        height: 5rem;
+        color :rgb(255, 255, 255);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        font-weight: bold;
+        font-family: 'PT Sans', sans-serif;
+        transition: all 2s;
+        border-radius: 5%;
+        border-radius: 20px 100px / 100px 20px;
+        
+   }
+
+
+ .flex-box2:hover {
+  width: 9rem;
+  height: 6rem;
+  font-size: larger;
+}
+
+ .flex-box3 {
+    background-color: rgba(191, 148, 233, 0.648);
+    width: 5rem;
+      height: 5rem;
+      color :rgb(255, 255, 255);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      font-weight: bold;
+      font-family: 'PT Sans', sans-serif;
+      transition: all 2s;
+      border-radius: 5%;
+      border-radius: 20px 100px / 100px 20px;
+ }
+
+ .flex-box3:hover {
+  width: 9rem;
+  height: 6rem;
+  font-size: larger;
+}
+
+ .flex-box4 {
+    background-color: #33cc99a8;
+    width: 5rem;
+      height: 5rem;
+      color :rgb(255, 255, 255);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      font-weight: bold;
+      font-family: 'PT Sans', sans-serif;
+      transition: all 2s;
+      border-radius: 5%;
+      border-radius: 20px 100px / 100px 20px;
+ }
+
+
+ .flex-box4:hover {
+  width: 9rem;
+  height: 6rem;
+  font-size: larger;
+}
+
+.lien {
+ text-decoration: none;
+}
+
+p {
+  color: rgba(118, 73, 114, 0.866);
+ }
+
+ h2 {
+  color: rgba(84, 49, 81, 0.866);
+ }
